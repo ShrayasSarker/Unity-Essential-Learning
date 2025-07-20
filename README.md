@@ -55,12 +55,12 @@ Hit Play to test the scenes from the menu
 
 📸 Screenshots
 
-![](<Screenshot 2025-07-20 195728.png>)
-![](<Screenshot 2025-07-20 195445.png>)
-![](<Screenshot 2025-07-20 195418.png>)
-![](<Screenshot 2025-07-20 195345.png>)
-![](<Screenshot 2025-07-20 195258.png>)
-![](<Screenshot 2025-07-20 195202.png>)
+![Play Ground](<Assets/Screenshot 2025-07-20 195202.png>)
+![Kid's Room](<Assets/Screenshot 2025-07-20 195258.png>)
+![Kitchen](<Assets/Screenshot 2025-07-20 195345.png>)
+![Living Room](<Assets/Screenshot 2025-07-20 195418.png>)
+![Top Down](<Assets/Screenshot 2025-07-20 195445.png>)
+![Bonus Room](<Assets/Screenshot 2025-07-20 195705.png>)
 
 📢 Acknowledgments
 Unity Learn for tutorials and guidance
