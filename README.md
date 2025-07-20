@@ -3,7 +3,7 @@
 Welcome to my beginner-level Unity project created using **Unity Learn**!  
 This interactive educational game allows users to explore different Unity concepts through a virtual house with themed rooms.
 
-![Main Menu Screenshot](<Screenshot 2025-07-20 195131.png>)
+![Main Menu Screenshot](<Assets/Screenshot 2025-07-20 195131.png>)
 
 ---
 
